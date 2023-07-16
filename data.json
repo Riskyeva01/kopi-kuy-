@@ -1,0 +1,55 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "400 Ml",
+            "harga": "170.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Ml",
+            "harga": "90.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://www.ruparupa.com/blog/wp-content/uploads/2022/10/jenis-minuman-kopi.jpg",
+            "nama": "coffe latte",
+            "size": "200 Ml",
+            "harga": "40.000",
+            "link": "#"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Ml",
+            "harga": "120.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "200 Ml",
+            "harga": "110.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/3bOPM7JGBm.jpg",
+            "nama": "smooth coffe",
+            "size": "200 Ml",
+            "harga": "70.000",
+            "link": "#"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "180 Ml",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
